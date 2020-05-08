@@ -1,6 +1,5 @@
 [[redirects]]
-  from = "/"
-  to = "/ https://thoughtcloudacademy.wixsite.com/home"
+  from = "https://eloquent-newton-15e2d2.netlify.app/*"
+  to = "https://thoughtcloudacademy.wixsite.com/home"
   status = 301
   force = true
-
