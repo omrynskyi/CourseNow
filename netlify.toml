@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/"
-  to = "https://thoughtcloudacademy.wixsite.com/home"
+  to = "/ https://thoughtcloudacademy.wixsite.com/home"
   status = 301
   force = true
 
