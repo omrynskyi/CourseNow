@@ -2,6 +2,5 @@
   from = "/"
   to = "https://thoughtcloudacademy.wixsite.com/home"
   status = 301
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
+  force = true
+
