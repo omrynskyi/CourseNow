@@ -9,3 +9,9 @@
   to = "https://coursenow.wixsite.com/home"
   status = 301
   force = true
+  
+ [[redirects]]
+  from = "http://coursenow.org/*"
+  to = "https://coursenow.wixsite.com/home"
+  status = 301
+  force = true
